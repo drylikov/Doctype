@@ -35,6 +35,7 @@ Info on HTML, XHTML, MathML, and SVG doctypes.
 *   [Contribute](#contribute)
 
 
+
 ## What is this?
 
 This package lists known doctypes and exposes a function to turn a fuzzy name
