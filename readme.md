@@ -52,6 +52,7 @@ This package lists known doctypes and exposes a function to turn a fuzzy name
 This package is rather niche, using something other than `<!doctype html>` is
 almost never needed anymore.
 
+
 ## Install
 
 This package is [ESM only][esm].
