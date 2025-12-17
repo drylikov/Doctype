@@ -2,7 +2,6 @@
 # Doctype
 
 [![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
 
 Info on HTML, XHTML, MathML, and SVG doctypes.
 
