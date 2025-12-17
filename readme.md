@@ -12,6 +12,7 @@
 Info on HTML, XHTML, MathML, and SVG doctypes.
 
 
+
 ## Contents
 
 *   [What is this?](#what-is-this)
