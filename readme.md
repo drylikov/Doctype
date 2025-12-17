@@ -1,7 +1,6 @@
 
 # Doctype
 
-[![Build][build-badge]][build]
 
 Info on HTML, XHTML, MathML, and SVG doctypes.
 
