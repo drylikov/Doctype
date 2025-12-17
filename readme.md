@@ -110,6 +110,7 @@ console.log(doctype('svg'))
 
 
 
+
 ## API
 
 This package exports the identifiers `doctype` and `doctypes`.
