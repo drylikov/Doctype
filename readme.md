@@ -172,10 +172,6 @@ See [How to Contribute to Open Source][contribute].
 
 [esmsh]: https://esm.sh
 
-[license]: license
-
-[author]: https://drylikov.com
-
 [esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
 
 [typescript]: https://www.typescriptlang.org
