@@ -116,6 +116,7 @@ console.log(doctype('svg'))
 
 
 
+
 This package exports the identifiers `doctype` and `doctypes`.
 There is no default export.
 
