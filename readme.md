@@ -108,6 +108,7 @@ console.log(doctype('svg'))
 // => 'svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"'
 ```
 
+
 ## API
 
 This package exports the identifiers `doctype` and `doctypes`.
