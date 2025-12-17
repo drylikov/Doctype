@@ -40,6 +40,7 @@ Info on HTML, XHTML, MathML, and SVG doctypes.
 
 ## What is this?
 
+
 This package lists known doctypes and exposes a function to turn a fuzzy name
 (such as `html`, `5`) into a corresponding doctype.
 
