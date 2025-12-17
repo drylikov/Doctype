@@ -25,7 +25,6 @@ Info on HTML, XHTML, MathML, and SVG doctypes.
 *   [Security](#security)
 *   [Related](#related)
 *   [Contribute](#contribute)
-*   [License](#license)
 
 ## What is this?
 
